@@ -1,11 +1,15 @@
 { 
-    "compilerOptions": {
-        "module": "CommonJS",
-        "esModuleInterop": true,
-        "target": "es6",
-        "moduleResolution": "node",
-        "sourceMap": true,
-        "outDir": "dist"
-    },
-    "lib": ["es2015"]
+  "compilerOptions": {
+    "typeRoots": ["src/@types", "node_modules/@types"],
+    "lib": [
+      "es2020"
+    ],
+    "module": "CommonJS",
+    "target": "es2022",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "dist"
+  },
 }
