@@ -1,0 +1,2168 @@
+[
+    {
+      "pregunta": "¿Qué año se celebraron los primeros Juegos Olímpicos modernos?",
+      "opciones": [
+        "1896",
+        "1900",
+        "1924",
+        "1936"
+      ],
+      "respuesta": "1896"
+    },
+    {
+      "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "opciones": [
+        "1935",
+        "1937",
+        "1939",
+        "1941"
+      ],
+      "respuesta": "1939"
+    },
+    {
+      "pregunta": "¿En qué año llegó el hombre a la luna?",
+      "opciones": [
+        "1965",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "respuesta": "1969"
+    },
+    {
+      "pregunta": "¿Qué es el H2O?",
+      "opciones": [
+        "Dióxido de carbono",
+        "Hidrógeno",
+        "Oxígeno",
+        "Agua"
+      ],
+      "respuesta": "Agua"
+    },
+    {
+      "pregunta": "¿Quién es conocido como el padre de la física moderna?",
+      "opciones": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ],
+      "respuesta": "Albert Einstein"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por su arquitectura gótica y castillos?",
+      "opciones": [
+        "Francia",
+        "Alemania",
+        "Reino Unido",
+        "Italia"
+      ],
+      "respuesta": "Alemania"
+    },
+    {
+      "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "opciones": [
+        "Hierro",
+        "Aluminio",
+        "Cobre",
+        "Plata"
+      ],
+      "respuesta": "Aluminio"
+    },
+    {
+      "pregunta": "¿En qué continente se encuentra la selva amazónica?",
+      "opciones": [
+        "África",
+        "Asia",
+        "América del Sur",
+        "Australia"
+      ],
+      "respuesta": "América del Sur"
+    },
+    {
+      "pregunta": "¿Qué instrumento se utiliza para medir la velocidad del viento?",
+      "opciones": [
+        "Barómetro",
+        "Termómetro",
+        "Higrómetro",
+        "Anemómetro"
+      ],
+      "respuesta": "Anemómetro"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Turquía?",
+      "opciones": [
+        "Estambul",
+        "Ankara",
+        "Izmir",
+        "Bursa"
+      ],
+      "respuesta": "Ankara"
+    },
+    {
+      "pregunta": "¿Cuál es el continente más frío del mundo?",
+      "opciones": [
+        "Europa",
+        "Antártida",
+        "América del Norte",
+        "Asia"
+      ],
+      "respuesta": "Antártida"
+    },
+    {
+      "pregunta": "¿Cuál es el país más grande de África?",
+      "opciones": [
+        "Argelia",
+        "Sudáfrica",
+        "Egipto",
+        "Nigeria"
+      ],
+      "respuesta": "Argelia"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por el tango?",
+      "opciones": [
+        "Brasil",
+        "España",
+        "México",
+        "Argentina"
+      ],
+      "respuesta": "Argentina"
+    },
+    {
+      "pregunta": "¿Qué gas se utiliza en las bombillas incandescentes?",
+      "opciones": [
+        "Oxígeno",
+        "Nitrógeno",
+        "Argón",
+        "Neón"
+      ],
+      "respuesta": "Argón"
+    },
+    {
+      "pregunta": "¿Cuál es el continente más grande del mundo?",
+      "opciones": [
+        "América del Norte",
+        "África",
+        "Asia",
+        "Europa"
+      ],
+      "respuesta": "Asia"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Grecia?",
+      "opciones": [
+        "Salónica",
+        "Atenas",
+        "Patras",
+        "Heraclión"
+      ],
+      "respuesta": "Atenas"
+    },
+    {
+      "pregunta": "¿Cuál es el continente más pequeño del mundo?",
+      "opciones": [
+        "Europa",
+        "Australia",
+        "Antártida",
+        "América del Sur"
+      ],
+      "respuesta": "Australia"
+    },
+    {
+      "pregunta": "¿Qué país es conocido como la tierra de los canguros?",
+      "opciones": [
+        "Nueva Zelanda",
+        "Australia",
+        "Sudáfrica",
+        "Canadá"
+      ],
+      "respuesta": "Australia"
+    },
+    {
+      "pregunta": "¿Cuál es el animal más grande del mundo?",
+      "opciones": [
+        "Elefante africano",
+        "Calamar gigante",
+        "Ballena azul",
+        "Cocodrilo marino"
+      ],
+      "respuesta": "Ballena azul"
+    },
+    {
+      "pregunta": "¿Qué instrumento se utiliza para medir la presión atmosférica?",
+      "opciones": [
+        "Termómetro",
+        "Barómetro",
+        "Higrómetro",
+        "Anemómetro"
+      ],
+      "respuesta": "Barómetro"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Alemania?",
+      "opciones": [
+        "Hamburgo",
+        "Berlín",
+        "Múnich",
+        "Fráncfort"
+      ],
+      "respuesta": "Berlín"
+    },
+    {
+      "pregunta": "¿Cuál es el país más grande de América del Sur?",
+      "opciones": [
+        "Argentina",
+        "Brasil",
+        "Chile",
+        "Colombia"
+      ],
+      "respuesta": "Brasil"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por el Carnaval de Río de Janeiro?",
+      "opciones": [
+        "Argentina",
+        "México",
+        "Colombia",
+        "Brasil"
+      ],
+      "respuesta": "Brasil"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por la samba?",
+      "opciones": [
+        "Argentina",
+        "España",
+        "Brasil",
+        "México"
+      ],
+      "respuesta": "Brasil"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por sus playas en Copacabana e Ipanema?",
+      "opciones": [
+        "Argentina",
+        "Chile",
+        "México",
+        "Brasil"
+      ],
+      "respuesta": "Brasil"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Brasil?",
+      "opciones": [
+        "Río de Janeiro",
+        "São Paulo",
+        "Brasilia",
+        "Salvador"
+      ],
+      "respuesta": "Brasilia"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Argentina?",
+      "opciones": [
+        "Córdoba",
+        "Rosario",
+        "Mendoza",
+        "Buenos Aires"
+      ],
+      "respuesta": "Buenos Aires"
+    },
+    {
+      "pregunta": "¿Cuál es el edificio más alto del mundo?",
+      "opciones": [
+        "Torre Eiffel",
+        "Empire State Building",
+        "Burj Khalifa",
+        "Shanghái Tower"
+      ],
+      "respuesta": "Burj Khalifa"
+    },
+    {
+      "pregunta": "¿Qué mineral es necesario para la formación de los huesos?",
+      "opciones": [
+        "Hierro",
+        "Zinc",
+        "Calcio",
+        "Potasio"
+      ],
+      "respuesta": "Calcio"
+    },
+    {
+      "pregunta": "¿Qué animal es conocido por su capacidad de cambiar de color?",
+      "opciones": [
+        "Camaleón",
+        "Pulpo",
+        "Pez payaso",
+        "Serpiente"
+      ],
+      "respuesta": "Camaleón"
+    },
+    {
+      "pregunta": "¿Cuál es el país más grande de América del Norte?",
+      "opciones": [
+        "Estados Unidos",
+        "México",
+        "Canadá",
+        "Groenlandia"
+      ],
+      "respuesta": "Canadá"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por la Torre CN?",
+      "opciones": [
+        "Estados Unidos",
+        "Reino Unido",
+        "Canadá",
+        "Australia"
+      ],
+      "respuesta": "Canadá"
+    },
+    {
+      "pregunta": "¿Qué país tiene la mayor cantidad de lagos?",
+      "opciones": [
+        "Canadá",
+        "Brasil",
+        "Rusia",
+        "Finlandia"
+      ],
+      "respuesta": "Canadá"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Australia?",
+      "opciones": [
+        "Sídney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "respuesta": "Canberra"
+    },
+    {
+      "pregunta": "¿Cuál es el animal nacional de Canadá?",
+      "opciones": [
+        "Oso pardo",
+        "Alce",
+        "Castor",
+        "Caribú"
+      ],
+      "respuesta": "Castor"
+    },
+    {
+      "pregunta": "¿Qué animal es conocido por construir presas?",
+      "opciones": [
+        "Castor",
+        "Nutria",
+        "Rata",
+        "Mapache"
+      ],
+      "respuesta": "Castor"
+    },
+    {
+      "pregunta": "¿Quién es conocido como el padre de la teoría de la evolución?",
+      "opciones": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Charles Darwin",
+        "Louis Pasteur"
+      ],
+      "respuesta": "Charles Darwin"
+    },
+    {
+      "pregunta": "¿Cuál es el país más poblado del mundo?",
+      "opciones": [
+        "India",
+        "China",
+        "Estados Unidos",
+        "Indonesia"
+      ],
+      "respuesta": "China"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por su cerámica azul y blanca?",
+      "opciones": [
+        "China",
+        "Japón",
+        "Turquía",
+        "España"
+      ],
+      "respuesta": "China"
+    },
+    {
+      "pregunta": "¿Cuál es el idioma más hablado en el mundo?",
+      "opciones": [
+        "Inglés",
+        "Chino mandarín",
+        "Español",
+        "Hindú"
+      ],
+      "respuesta": "Chino mandarín"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de México?",
+      "opciones": [
+        "Guadalajara",
+        "Monterrey",
+        "Tijuana",
+        "Ciudad de México"
+      ],
+      "respuesta": "Ciudad de México"
+    },
+    {
+      "pregunta": "¿Cuál es el país más pequeño de Europa?",
+      "opciones": [
+        "Liechtenstein",
+        "San Marino",
+        "Mónaco",
+        "Ciudad del Vaticano"
+      ],
+      "respuesta": "Ciudad del Vaticano"
+    },
+    {
+      "pregunta": "¿Cuál es el país más pequeño del mundo?",
+      "opciones": [
+        "Mónaco",
+        "San Marino",
+        "Liechtenstein",
+        "Ciudad del Vaticano"
+      ],
+      "respuesta": "Ciudad del Vaticano"
+    },
+    {
+      "pregunta": "¿Qué órgano del cuerpo humano es responsable de bombear la sangre?",
+      "opciones": [
+        "Pulmones",
+        "Hígado",
+        "Corazón",
+        "Riñones"
+      ],
+      "respuesta": "Corazón"
+    },
+    {
+      "pregunta": "¿Cuál es la capa más externa de la Tierra?",
+      "opciones": [
+        "Núcleo",
+        "Manto",
+        "Corteza",
+        "Litosfera"
+      ],
+      "respuesta": "Corteza"
+    },
+    {
+      "pregunta": "¿Quién escribió 'La Divina Comedia'?",
+      "opciones": [
+        "Giovanni Boccaccio",
+        "Dante Alighieri",
+        "Petrarca",
+        "Ludovico Ariosto"
+      ],
+      "respuesta": "Dante Alighieri"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de India?",
+      "opciones": [
+        "Bombay",
+        "Delhi",
+        "Bangalore",
+        "Kolkata"
+      ],
+      "respuesta": "Delhi"
+    },
+    {
+      "pregunta": "¿Cuál es el lugar más seco de la Tierra?",
+      "opciones": [
+        "Desierto del Sahara",
+        "Desierto de Gobi",
+        "Desierto de Atacama",
+        "Desierto de Kalahari"
+      ],
+      "respuesta": "Desierto de Atacama"
+    },
+    {
+      "pregunta": "¿Cuál es el desierto más grande de América del Norte?",
+      "opciones": [
+        "Desierto de Sonora",
+        "Desierto de Mojave",
+        "Desierto de Chihuahua",
+        "Desierto de la Gran Cuenca"
+      ],
+      "respuesta": "Desierto de Chihuahua"
+    },
+    {
+      "pregunta": "¿Cuál es el desierto más grande del mundo?",
+      "opciones": [
+        "Desierto del Sahara",
+        "Desierto de Gobi",
+        "Desierto de Kalahari",
+        "Desierto de Arabia"
+      ],
+      "respuesta": "Desierto del Sahara"
+    },
+    {
+      "pregunta": "¿Qué gas es esencial para la fotosíntesis?",
+      "opciones": [
+        "Oxígeno",
+        "Nitrógeno",
+        "Dióxido de carbono",
+        "Helio"
+      ],
+      "respuesta": "Dióxido de carbono"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda de Australia?",
+      "opciones": [
+        "Euro",
+        "Dólar australiano",
+        "Libra australiana",
+        "Peso australiano"
+      ],
+      "respuesta": "Dólar australiano"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por las pirámides de Giza?",
+      "opciones": [
+        "México",
+        "Perú",
+        "Egipto",
+        "India"
+      ],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Egipto?",
+      "opciones": [
+        "El Cairo",
+        "Alejandría",
+        "Giza",
+        "Luxor"
+      ],
+      "respuesta": "El Cairo"
+    },
+    {
+      "pregunta": "¿Qué animal es conocido por su larga trompa?",
+      "opciones": [
+        "Jirafa",
+        "Elefante",
+        "Rinoceronte",
+        "Hipopótamo"
+      ],
+      "respuesta": "Elefante"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por la producción de aceite de oliva?",
+      "opciones": [
+        "Grecia",
+        "Italia",
+        "España",
+        "Portugal"
+      ],
+      "respuesta": "España"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Suecia?",
+      "opciones": [
+        "Gotemburgo",
+        "Malmö",
+        "Estocolmo",
+        "Upsala"
+      ],
+      "respuesta": "Estocolmo"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda oficial de la Eurozona?",
+      "opciones": [
+        "Dólar",
+        "Libra esterlina",
+        "Euro",
+        "Franco suizo"
+      ],
+      "respuesta": "Euro"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por la Torre Eiffel?",
+      "opciones": [
+        "Italia",
+        "España",
+        "Francia",
+        "Alemania"
+      ],
+      "respuesta": "Francia"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por la producción de vino tinto?",
+      "opciones": [
+        "España",
+        "Italia",
+        "Francia",
+        "Chile"
+      ],
+      "respuesta": "Francia"
+    },
+    {
+      "pregunta": "¿Qué país ganó la Copa Mundial de Fútbol en 2018?",
+      "opciones": [
+        "Alemania",
+        "Argentina",
+        "Brasil",
+        "Francia"
+      ],
+      "respuesta": "Francia"
+    },
+    {
+      "pregunta": "¿Qué país tiene la ciudad de París como capital?",
+      "opciones": [
+        "España",
+        "Italia",
+        "Francia",
+        "Portugal"
+      ],
+      "respuesta": "Francia"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda de Suiza?",
+      "opciones": [
+        "Euro",
+        "Libra esterlina",
+        "Franco suizo",
+        "Dólar"
+      ],
+      "respuesta": "Franco suizo"
+    },
+    {
+      "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "opciones": [
+        "Húmero",
+        "Fémur",
+        "Radio",
+        "Tibia"
+      ],
+      "respuesta": "Fémur"
+    },
+    {
+      "pregunta": "¿Cuál es el deporte más popular del mundo?",
+      "opciones": [
+        "Baloncesto",
+        "Tenis",
+        "Críquet",
+        "Fútbol"
+      ],
+      "respuesta": "Fútbol"
+    },
+    {
+      "pregunta": "¿Cuál es el deporte más popular en Estados Unidos?",
+      "opciones": [
+        "Fútbol americano",
+        "Béisbol",
+        "Baloncesto",
+        "Hockey"
+      ],
+      "respuesta": "Fútbol americano"
+    },
+    {
+      "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+      "opciones": [
+        "Pablo Neruda",
+        "Julio Cortázar",
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa"
+      ],
+      "respuesta": "Gabriel García Márquez"
+    },
+    {
+      "pregunta": "¿Quién escribió '1984'?",
+      "opciones": [
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "George Orwell",
+        "Isaac Asimov"
+      ],
+      "respuesta": "George Orwell"
+    },
+    {
+      "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+      "opciones": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "George Washington",
+        "John Adams"
+      ],
+      "respuesta": "George Washington"
+    },
+    {
+      "pregunta": "¿Cuál es el animal más rápido del mundo?",
+      "opciones": [
+        "León",
+        "Guepardo",
+        "Águila",
+        "Antílope"
+      ],
+      "respuesta": "Guepardo"
+    },
+    {
+      "pregunta": "¿Qué gas se utiliza en los globos aerostáticos?",
+      "opciones": [
+        "Oxígeno",
+        "Hidrógeno",
+        "Helio",
+        "Nitrógeno"
+      ],
+      "respuesta": "Helio"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Finlandia?",
+      "opciones": [
+        "Tampere",
+        "Turku",
+        "Helsinki",
+        "Oulu"
+      ],
+      "respuesta": "Helsinki"
+    },
+    {
+      "pregunta": "¿Cuál es el elemento químico más abundante en el universo?",
+      "opciones": [
+        "Oxígeno",
+        "Hidrógeno",
+        "Helio",
+        "Nitrógeno"
+      ],
+      "respuesta": "Hidrógeno"
+    },
+    {
+      "pregunta": "¿Qué metal tiene el símbolo 'Fe'?",
+      "opciones": [
+        "Fósforo",
+        "Flúor",
+        "Hierro",
+        "Francio"
+      ],
+      "respuesta": "Hierro"
+    },
+    {
+      "pregunta": "¿Quién es conocido como el padre de la medicina moderna?",
+      "opciones": [
+        "Hipócrates",
+        "Aristóteles",
+        "Platón",
+        "Sócrates"
+      ],
+      "respuesta": "Hipócrates"
+    },
+    {
+      "pregunta": "¿Quién escribió 'La Odisea'?",
+      "opciones": [
+        "Virgilio",
+        "Homero",
+        "Sófocles",
+        "Platón"
+      ],
+      "respuesta": "Homero"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por el Taj Mahal?",
+      "opciones": [
+        "Pakistán",
+        "Bangladesh",
+        "Sri Lanka",
+        "India"
+      ],
+      "respuesta": "India"
+    },
+    {
+      "pregunta": "¿Qué país tiene el mayor número de volcanes activos?",
+      "opciones": [
+        "Indonesia",
+        "Japón",
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "respuesta": "Indonesia"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por la cerveza Guinness?",
+      "opciones": [
+        "Escocia",
+        "Inglaterra",
+        "Irlanda",
+        "Gales"
+      ],
+      "respuesta": "Irlanda"
+    },
+    {
+      "pregunta": "¿Quién es conocido como el padre de la física?",
+      "opciones": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Niels Bohr"
+      ],
+      "respuesta": "Isaac Newton"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por el Coliseo?",
+      "opciones": [
+        "Grecia",
+        "Francia",
+        "Italia",
+        "España"
+      ],
+      "respuesta": "Italia"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por la Torre Inclinada de Pisa?",
+      "opciones": [
+        "Francia",
+        "Grecia",
+        "Italia",
+        "España"
+      ],
+      "respuesta": "Italia"
+    },
+    {
+      "pregunta": "¿Qué país es famoso por la pizza y la pasta?",
+      "opciones": [
+        "Francia",
+        "España",
+        "Grecia",
+        "Italia"
+      ],
+      "respuesta": "Italia"
+    },
+    {
+      "pregunta": "¿Qué país tiene forma de bota?",
+      "opciones": [
+        "Francia",
+        "España",
+        "Italia",
+        "Portugal"
+      ],
+      "respuesta": "Italia"
+    },
+    {
+      "pregunta": "¿Quién escribió 'Orgullo y prejuicio'?",
+      "opciones": [
+        "Emily Brontë",
+        "Jane Austen",
+        "Charlotte Brontë",
+        "Louisa May Alcott"
+      ],
+      "respuesta": "Jane Austen"
+    },
+    {
+      "pregunta": "¿Qué país es conocido como la tierra del sol naciente?",
+      "opciones": [
+        "China",
+        "Corea del Sur",
+        "Tailandia",
+        "Japón"
+      ],
+      "respuesta": "Japón"
+    },
+    {
+      "pregunta": "¿Qué país es famoso por el Monte Fuji?",
+      "opciones": [
+        "China",
+        "Corea del Sur",
+        "Japón",
+        "Tailandia"
+      ],
+      "respuesta": "Japón"
+    },
+    {
+      "pregunta": "¿Qué país es famoso por la comida sushi?",
+      "opciones": [
+        "China",
+        "Corea del Sur",
+        "Vietnam",
+        "Japón"
+      ],
+      "respuesta": "Japón"
+    },
+    {
+      "pregunta": "¿Qué país tiene la mayor esperanza de vida?",
+      "opciones": [
+        "Estados Unidos",
+        "Japón",
+        "Suiza",
+        "Noruega"
+      ],
+      "respuesta": "Japón"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por el antiguo sitio arqueológico de Petra?",
+      "opciones": [
+        "Egipto",
+        "Jordania",
+        "Israel",
+        "Líbano"
+      ],
+      "respuesta": "Jordania"
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": [
+        "Júpiter",
+        "Saturno",
+        "Neptuno",
+        "Urano"
+      ],
+      "respuesta": "Júpiter"
+    },
+    {
+      "pregunta": "¿Cuál es el libro más vendido de todos los tiempos?",
+      "opciones": [
+        "El Señor de los Anillos",
+        "Harry Potter y la piedra filosofal",
+        "Don Quijote de la Mancha",
+        "La Biblia"
+      ],
+      "respuesta": "La Biblia"
+    },
+    {
+      "pregunta": "¿Cuál es el mayor lago de agua dulce del mundo?",
+      "opciones": [
+        "Lago Superior",
+        "Lago Victoria",
+        "Lago Baikal",
+        "Lago Tanganica"
+      ],
+      "respuesta": "Lago Superior"
+    },
+    {
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "opciones": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "respuesta": "Leonardo da Vinci"
+    },
+    {
+      "pregunta": "¿Qué artista pintó 'La última cena'?",
+      "opciones": [
+        "Miguel Ángel",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Leonardo da Vinci"
+      ],
+      "respuesta": "Leonardo da Vinci"
+    },
+    {
+      "pregunta": "¿Qué animal es conocido como el rey de la selva?",
+      "opciones": [
+        "Tigre",
+        "Elefante",
+        "León",
+        "Gorila"
+      ],
+      "respuesta": "León"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda de Reino Unido?",
+      "opciones": [
+        "Euro",
+        "Dólar",
+        "Libra esterlina",
+        "Franco suizo"
+      ],
+      "respuesta": "Libra esterlina"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Perú?",
+      "opciones": [
+        "Cusco",
+        "Lima",
+        "Arequipa",
+        "Trujillo"
+      ],
+      "respuesta": "Lima"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Portugal?",
+      "opciones": [
+        "Oporto",
+        "Braga",
+        "Lisboa",
+        "Coímbra"
+      ],
+      "respuesta": "Lisboa"
+    },
+    {
+      "pregunta": "¿Qué metal se utiliza principalmente en la fabricación de baterías recargables?",
+      "opciones": [
+        "Cobre",
+        "Plata",
+        "Litio",
+        "Zinc"
+      ],
+      "respuesta": "Litio"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de España?",
+      "opciones": [
+        "Barcelona",
+        "Valencia",
+        "Sevilla",
+        "Madrid"
+      ],
+      "respuesta": "Madrid"
+    },
+    {
+      "pregunta": "¿Qué tipo de animal es un delfín?",
+      "opciones": [
+        "Pez",
+        "Reptil",
+        "Ave",
+        "Mamífero"
+      ],
+      "respuesta": "Mamífero"
+    },
+    {
+      "pregunta": "¿Cuál es el punto más bajo de la Tierra?",
+      "opciones": [
+        "Mar Caribe",
+        "Mar Muerto",
+        "Mar Mediterráneo",
+        "Mar Rojo"
+      ],
+      "respuesta": "Mar Muerto"
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como el Planeta Rojo?",
+      "opciones": [
+        "Venus",
+        "Marte",
+        "Júpiter",
+        "Saturno"
+      ],
+      "respuesta": "Marte"
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más cercano al sol?",
+      "opciones": [
+        "Venus",
+        "Mercurio",
+        "Tierra",
+        "Marte"
+      ],
+      "respuesta": "Mercurio"
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más pequeño del sistema solar?",
+      "opciones": [
+        "Marte",
+        "Mercurio",
+        "Venus",
+        "Plutón"
+      ],
+      "respuesta": "Mercurio"
+    },
+    {
+      "pregunta": "¿Qué metal se utiliza en los termómetros antiguos?",
+      "opciones": [
+        "Plata",
+        "Mercurio",
+        "Oro",
+        "Cobre"
+      ],
+      "respuesta": "Mercurio"
+    },
+    {
+      "pregunta": "¿Quién es el autor de 'Don Quijote de la Mancha'?",
+      "opciones": [
+        "Gabriel García Márquez",
+        "Federico García Lorca",
+        "Miguel de Cervantes",
+        "Jorge Luis Borges"
+      ],
+      "respuesta": "Miguel de Cervantes"
+    },
+    {
+      "pregunta": "¿Qué artista pintó la Capilla Sixtina?",
+      "opciones": [
+        "Leonardo da Vinci",
+        "Rafael",
+        "Donatello",
+        "Miguel Ángel"
+      ],
+      "respuesta": "Miguel Ángel"
+    },
+    {
+      "pregunta": "¿Cuál es la montaña más alta de América del Sur?",
+      "opciones": [
+        "Monte Aconcagua",
+        "Monte Pissis",
+        "Ojos del Salado",
+        "Huascarán"
+      ],
+      "respuesta": "Monte Aconcagua"
+    },
+    {
+      "pregunta": "¿Cuál es la montaña más alta de Europa?",
+      "opciones": [
+        "Mont Blanc",
+        "Monte Elbrús",
+        "Monte Rosa",
+        "Monte Cervino"
+      ],
+      "respuesta": "Monte Elbrús"
+    },
+    {
+      "pregunta": "¿Qué montaña es la más alta del mundo?",
+      "opciones": [
+        "Mont Blanc",
+        "Monte Everest",
+        "K2",
+        "Kangchenjunga"
+      ],
+      "respuesta": "Monte Everest"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Rusia?",
+      "opciones": [
+        "San Petersburgo",
+        "Vladivostok",
+        "Novosibirsk",
+        "Moscú"
+      ],
+      "respuesta": "Moscú"
+    },
+    {
+      "pregunta": "¿Cuál es el único mamífero capaz de volar?",
+      "opciones": [
+        "Murciélago",
+        "Ardilla voladora",
+        "Pterodáctilo",
+        "Pingüino"
+      ],
+      "respuesta": "Murciélago"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por sus playas en Cancún y Tulum?",
+      "opciones": [
+        "Brasil",
+        "España",
+        "México",
+        "Colombia"
+      ],
+      "respuesta": "México"
+    },
+    {
+      "pregunta": "¿Qué país es famoso por el tequila?",
+      "opciones": [
+        "España",
+        "México",
+        "Chile",
+        "Perú"
+      ],
+      "respuesta": "México"
+    },
+    {
+      "pregunta": "¿Cuál es el país con la mayor densidad de población?",
+      "opciones": [
+        "India",
+        "China",
+        "Mónaco",
+        "Bangladesh"
+      ],
+      "respuesta": "Mónaco"
+    },
+    {
+      "pregunta": "¿Quién fue el primer hombre en pisar la Luna?",
+      "opciones": [
+        "Buzz Aldrin",
+        "Michael Collins",
+        "Neil Armstrong",
+        "Yuri Gagarin"
+      ],
+      "respuesta": "Neil Armstrong"
+    },
+    {
+      "pregunta": "¿Qué planeta está más lejos del sol?",
+      "opciones": [
+        "Urano",
+        "Neptuno",
+        "Plutón",
+        "Saturno"
+      ],
+      "respuesta": "Neptuno"
+    },
+    {
+      "pregunta": "¿Cuál es el país más poblado de África?",
+      "opciones": [
+        "Sudáfrica",
+        "Egipto",
+        "Etiopía",
+        "Nigeria"
+      ],
+      "respuesta": "Nigeria"
+    },
+    {
+      "pregunta": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+      "opciones": [
+        "Oxígeno",
+        "Dióxido de carbono",
+        "Nitrógeno",
+        "Argón"
+      ],
+      "respuesta": "Nitrógeno"
+    },
+    {
+      "pregunta": "¿Cuál es la ciudad más poblada de Estados Unidos?",
+      "opciones": [
+        "Los Ángeles",
+        "Chicago",
+        "Nueva York",
+        "Houston"
+      ],
+      "respuesta": "Nueva York"
+    },
+    {
+      "pregunta": "¿Cuál es el océano más grande del mundo?",
+      "opciones": [
+        "Océano Atlántico",
+        "Océano Índico",
+        "Océano Ártico",
+        "Océano Pacífico"
+      ],
+      "respuesta": "Océano Pacífico"
+    },
+    {
+      "pregunta": "¿Cuál es el océano más profundo del mundo?",
+      "opciones": [
+        "Océano Atlántico",
+        "Océano Índico",
+        "Océano Ártico",
+        "Océano Pacífico"
+      ],
+      "respuesta": "Océano Pacífico"
+    },
+    {
+      "pregunta": "¿Qué océano está al oeste de América del Norte?",
+      "opciones": [
+        "Océano Atlántico",
+        "Océano Índico",
+        "Océano Ártico",
+        "Océano Pacífico"
+      ],
+      "respuesta": "Océano Pacífico"
+    },
+    {
+      "pregunta": "¿Qué océano rodea a Japón?",
+      "opciones": [
+        "Océano Atlántico",
+        "Océano Índico",
+        "Océano Pacífico",
+        "Océano Ártico"
+      ],
+      "respuesta": "Océano Pacífico"
+    },
+    {
+      "pregunta": "¿Cuál es el océano más frío del mundo?",
+      "opciones": [
+        "Océano Atlántico",
+        "Océano Índico",
+        "Océano Ártico",
+        "Océano Pacífico"
+      ],
+      "respuesta": "Océano Ártico"
+    },
+    {
+      "pregunta": "¿Cuál es el océano más pequeño del mundo?",
+      "opciones": [
+        "Océano Atlántico",
+        "Océano Índico",
+        "Océano Ártico",
+        "Océano Pacífico"
+      ],
+      "respuesta": "Océano Ártico"
+    },
+    {
+      "pregunta": "¿Cuál es el océano más cálido del mundo?",
+      "opciones": [
+        "Océano Atlántico",
+        "Océano Índico",
+        "Océano Ártico",
+        "Océano Pacífico"
+      ],
+      "respuesta": "Océano Índico"
+    },
+    {
+      "pregunta": "¿Cuál es el metal precioso más conocido?",
+      "opciones": [
+        "Platino",
+        "Oro",
+        "Plata",
+        "Cobre"
+      ],
+      "respuesta": "Oro"
+    },
+    {
+      "pregunta": "¿Qué elemento tiene el símbolo 'Au'?",
+      "opciones": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Aluminio"
+      ],
+      "respuesta": "Oro"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Noruega?",
+      "opciones": [
+        "Oslo",
+        "Bergen",
+        "Trondheim",
+        "Stavanger"
+      ],
+      "respuesta": "Oslo"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Canadá?",
+      "opciones": [
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Ottawa"
+      ],
+      "respuesta": "Ottawa"
+    },
+    {
+      "pregunta": "¿Qué elemento químico tiene el símbolo O?",
+      "opciones": [
+        "Oro",
+        "Osmio",
+        "Oxígeno",
+        "Oganesón"
+      ],
+      "respuesta": "Oxígeno"
+    },
+    {
+      "pregunta": "¿Qué gas es esencial para la respiración humana?",
+      "opciones": [
+        "Nitrógeno",
+        "Dióxido de carbono",
+        "Oxígeno",
+        "Helio"
+      ],
+      "respuesta": "Oxígeno"
+    },
+    {
+      "pregunta": "¿Qué gas se libera durante la fotosíntesis?",
+      "opciones": [
+        "Oxígeno",
+        "Dióxido de carbono",
+        "Nitrógeno",
+        "Helio"
+      ],
+      "respuesta": "Oxígeno"
+    },
+    {
+      "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+      "opciones": [
+        "Londres",
+        "Berlín",
+        "Madrid",
+        "París"
+      ],
+      "respuesta": "París"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por la cerámica Delft?",
+      "opciones": [
+        "España",
+        "Portugal",
+        "Países Bajos",
+        "Francia"
+      ],
+      "respuesta": "Países Bajos"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por la producción de queso gouda?",
+      "opciones": [
+        "Suiza",
+        "Francia",
+        "Países Bajos",
+        "Dinamarca"
+      ],
+      "respuesta": "Países Bajos"
+    },
+    {
+      "pregunta": "¿Qué país es conocido por sus canales y molinos de viento?",
+      "opciones": [
+        "Dinamarca",
+        "Bélgica",
+        "Países Bajos",
+        "Suecia"
+      ],
+      "respuesta": "Países Bajos"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de China?",
+      "opciones": [
+        "Shanghái",
+        "Pekín",
+        "Hong Kong",
+        "Shenzhen"
+      ],
+      "respuesta": "Pekín"
+    },
+    {
+      "pregunta": "¿Cuál es el animal más rápido del océano?",
+      "opciones": [
+        "Tiburón blanco",
+        "Atún",
+        "Delfín",
+        "Pez vela"
+      ],
+      "respuesta": "Pez vela"
+    },
+    {
+      "pregunta": "¿Qué instrumento musical tiene teclas negras y blancas?",
+      "opciones": [
+        "Guitarra",
+        "Piano",
+        "Flauta",
+        "Violín"
+      ],
+      "respuesta": "Piano"
+    },
+    {
+      "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "opciones": [
+        "Corazón",
+        "Hígado",
+        "Piel",
+        "Pulmón"
+      ],
+      "respuesta": "Piel"
+    },
+    {
+      "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+      "opciones": [
+        "Español",
+        "Inglés",
+        "Francés",
+        "Portugués"
+      ],
+      "respuesta": "Portugués"
+    },
+    {
+      "pregunta": "¿Qué órgano del cuerpo humano produce insulina?",
+      "opciones": [
+        "Hígado",
+        "Riñón",
+        "Páncreas",
+        "Estómago"
+      ],
+      "respuesta": "Páncreas"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda de Brasil?",
+      "opciones": [
+        "Peso",
+        "Dólar",
+        "Real",
+        "Guaraní"
+      ],
+      "respuesta": "Real"
+    },
+    {
+      "pregunta": "¿Qué órgano del cuerpo humano es responsable de filtrar la sangre?",
+      "opciones": [
+        "Pulmones",
+        "Hígado",
+        "Corazón",
+        "Riñones"
+      ],
+      "respuesta": "Riñones"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Italia?",
+      "opciones": [
+        "Venecia",
+        "Milán",
+        "Nápoles",
+        "Roma"
+      ],
+      "respuesta": "Roma"
+    },
+    {
+      "pregunta": "¿En qué ciudad se encuentra el Coliseo?",
+      "opciones": [
+        "París",
+        "Londres",
+        "Atenas",
+        "Roma"
+      ],
+      "respuesta": "Roma"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda de Rusia?",
+      "opciones": [
+        "Rupia",
+        "Rublo",
+        "Lira",
+        "Franco"
+      ],
+      "respuesta": "Rublo"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda de India?",
+      "opciones": [
+        "Dólar",
+        "Rupia",
+        "Yuan",
+        "Peso"
+      ],
+      "respuesta": "Rupia"
+    },
+    {
+      "pregunta": "¿Cuál es el país más grande del mundo?",
+      "opciones": [
+        "Canadá",
+        "China",
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "respuesta": "Rusia"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": [
+        "Río Amazonas",
+        "Río Nilo",
+        "Río Yangtsé",
+        "Río Misisipi"
+      ],
+      "respuesta": "Río Amazonas"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo de América del Norte?",
+      "opciones": [
+        "Río Mississippi",
+        "Río Colorado",
+        "Río Yukon",
+        "Río Missouri"
+      ],
+      "respuesta": "Río Mississippi"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo de América del Norte?",
+      "opciones": [
+        "Río Mississippi",
+        "Río Missouri",
+        "Río Colorado",
+        "Río Yukon"
+      ],
+      "respuesta": "Río Missouri"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo de África?",
+      "opciones": [
+        "Río Congo",
+        "Río Níger",
+        "Río Limpopo",
+        "Río Nilo"
+      ],
+      "respuesta": "Río Nilo"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo de Europa?",
+      "opciones": [
+        "Río Támesis",
+        "Río Rin",
+        "Río Danubio",
+        "Río Volga"
+      ],
+      "respuesta": "Río Volga"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo de Asia?",
+      "opciones": [
+        "Río Amarillo",
+        "Río Mekong",
+        "Río Yangtsé",
+        "Río Ganges"
+      ],
+      "respuesta": "Río Yangtsé"
+    },
+    {
+      "pregunta": "¿Quién pintó 'La persistencia de la memoria'?",
+      "opciones": [
+        "Pablo Picasso",
+        "Claude Monet",
+        "Salvador Dalí",
+        "Vincent van Gogh"
+      ],
+      "respuesta": "Salvador Dalí"
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido por sus anillos?",
+      "opciones": [
+        "Marte",
+        "Neptuno",
+        "Júpiter",
+        "Saturno"
+      ],
+      "respuesta": "Saturno"
+    },
+    {
+      "pregunta": "¿Qué instrumento se asocia principalmente con el jazz?",
+      "opciones": [
+        "Violín",
+        "Saxofón",
+        "Piano",
+        "Flauta"
+      ],
+      "respuesta": "Saxofón"
+    },
+    {
+      "pregunta": "¿Qué metal se utiliza principalmente en la fabricación de chips de computadora?",
+      "opciones": [
+        "Plata",
+        "Oro",
+        "Cobre",
+        "Silicio"
+      ],
+      "respuesta": "Silicio"
+    },
+    {
+      "pregunta": "¿Cuál es el país con más islas en el mundo?",
+      "opciones": [
+        "Canadá",
+        "Indonesia",
+        "Filipinas",
+        "Suecia"
+      ],
+      "respuesta": "Suecia"
+    },
+    {
+      "pregunta": "¿Qué país es famoso por el chocolate y los relojes?",
+      "opciones": [
+        "Bélgica",
+        "Francia",
+        "Alemania",
+        "Suiza"
+      ],
+      "respuesta": "Suiza"
+    },
+    {
+      "pregunta": "¿Qué país es famoso por sus relojes de cuco?",
+      "opciones": [
+        "Italia",
+        "Suiza",
+        "Francia",
+        "Alemania"
+      ],
+      "respuesta": "Suiza"
+    },
+    {
+      "pregunta": "¿Cuál es el deporte nacional de Japón?",
+      "opciones": [
+        "Sumo",
+        "Judo",
+        "Karate",
+        "Kendo"
+      ],
+      "respuesta": "Sumo"
+    },
+    {
+      "pregunta": "¿Cuál es el país más pequeño de América del Sur?",
+      "opciones": [
+        "Surinam",
+        "Guyana",
+        "Uruguay",
+        "Ecuador"
+      ],
+      "respuesta": "Surinam"
+    },
+    {
+      "pregunta": "¿Qué ciudad es conocida por su Ópera y la Casa de la Ópera?",
+      "opciones": [
+        "Nueva York",
+        "Londres",
+        "Sídney",
+        "París"
+      ],
+      "respuesta": "Sídney"
+    },
+    {
+      "pregunta": "¿Qué deporte se juega en Wimbledon?",
+      "opciones": [
+        "Críquet",
+        "Baloncesto",
+        "Rugby",
+        "Tenis"
+      ],
+      "respuesta": "Tenis"
+    },
+    {
+      "pregunta": "¿Qué instrumento se utiliza para medir la temperatura?",
+      "opciones": [
+        "Barómetro",
+        "Higrómetro",
+        "Anemómetro",
+        "Termómetro"
+      ],
+      "respuesta": "Termómetro"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Japón?",
+      "opciones": [
+        "Osaka",
+        "Kioto",
+        "Tokio",
+        "Nagoya"
+      ],
+      "respuesta": "Tokio"
+    },
+    {
+      "pregunta": "¿Cuál es la ciudad más poblada del mundo?",
+      "opciones": [
+        "Tokio",
+        "Nueva York",
+        "Shanghái",
+        "Delhi"
+      ],
+      "respuesta": "Tokio"
+    },
+    {
+      "pregunta": "¿Qué bebida es conocida como la más consumida en el mundo después del agua?",
+      "opciones": [
+        "Café",
+        "Té",
+        "Jugo",
+        "Cerveza"
+      ],
+      "respuesta": "Té"
+    },
+    {
+      "pregunta": "¿Qué es un ovíparo?",
+      "opciones": [
+        "Un animal que da a luz crías vivas",
+        "Un animal que pone huevos",
+        "Un animal que se reproduce por esporas",
+        "Un animal que se divide en dos"
+      ],
+      "respuesta": "Un animal que pone huevos"
+    },
+    {
+      "pregunta": "¿Qué es la Mona Lisa?",
+      "opciones": [
+        "Una escultura",
+        "Un cuadro",
+        "Un edificio",
+        "Una joya"
+      ],
+      "respuesta": "Un cuadro"
+    },
+    {
+      "pregunta": "¿Qué artista pintó 'La noche estrellada'?",
+      "opciones": [
+        "Claude Monet",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Salvador Dalí"
+      ],
+      "respuesta": "Vincent van Gogh"
+    },
+    {
+      "pregunta": "¿Quién escribió 'Romeo y Julieta'?",
+      "opciones": [
+        "Christopher Marlowe",
+        "John Milton",
+        "William Shakespeare",
+        "Geoffrey Chaucer"
+      ],
+      "respuesta": "William Shakespeare"
+    },
+    {
+      "pregunta": "¿Cuál es el sistema operativo más utilizado en el mundo?",
+      "opciones": [
+        "MacOS",
+        "Linux",
+        "Windows",
+        "Android"
+      ],
+      "respuesta": "Windows"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda de Japón?",
+      "opciones": [
+        "Yuan",
+        "Won",
+        "Yen",
+        "Rupia"
+      ],
+      "respuesta": "Yen"
+    },
+    {
+      "pregunta": "¿Cuál es la moneda de China?",
+      "opciones": [
+        "Won",
+        "Yen",
+        "Rupia",
+        "Yuan"
+      ],
+      "respuesta": "Yuan"
+    },
+    {
+      "pregunta": "¿Qué es el ADN?",
+      "opciones": [
+        "Ácido ribonucleico",
+        "Proteína",
+        "Lípido",
+        "Ácido desoxirribonucleico"
+      ],
+      "respuesta": "Ácido desoxirribonucleico"
+    },
+    {
+      "pregunta": "¿Cuál es el continente con la mayor cantidad de países?",
+      "opciones": [
+        "África",
+        "Asia",
+        "Europa",
+        "América del Sur"
+      ],
+      "respuesta": "África"
+    },
+    {
+      "pregunta": "¿En qué continente se encuentra Egipto?",
+      "opciones": [
+        "Europa",
+        "Asia",
+        "África",
+        "América del Sur"
+      ],
+      "respuesta": "África"
+    },
+    {
+      "pregunta": "¿En qué continente se encuentra el río Nilo?",
+      "opciones": [
+        "América del Sur",
+        "Asia",
+        "Europa",
+        "África"
+      ],
+      "respuesta": "África"
+    },
+    {
+      "pregunta": "¿Cuál es la civilización antigua conocida por la construcción de pirámides en Giza?",
+      "opciones": ["Mesopotamia", "China", "Egipto", "Grecia"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se desarrolló la escritura cuneiforme?",
+      "opciones": ["Mesopotamia", "India", "Grecia", "Roma"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿Cuál es la civilización antigua conocida por la construcción de la Gran Muralla?",
+      "opciones": ["Egipto", "Roma", "India", "China"],
+      "respuesta": "China"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra el Partenón?",
+      "opciones": ["Roma", "Grecia", "Egipto", "Persia"],
+      "respuesta": "Grecia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por la ciudad de Machu Picchu?",
+      "opciones": ["Azteca", "Maya", "Inca", "Olmeca"],
+      "respuesta": "Inca"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la invención del alfabeto fonético?",
+      "opciones": ["Fenicia", "China", "Egipto", "Grecia"],
+      "respuesta": "Fenicia"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se originaron los Juegos Olímpicos?",
+      "opciones": ["Roma", "Egipto", "Grecia", "Mesopotamia"],
+      "respuesta": "Grecia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por su mitología que incluye dioses como Júpiter y Marte?",
+      "opciones": ["Egipto", "Grecia", "Roma", "India"],
+      "respuesta": "Roma"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra la ciudad de Angkor Wat?",
+      "opciones": ["Mesopotamia", "China", "Egipto", "Imperio Jemer"],
+      "respuesta": "Imperio Jemer"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por el Código de Hammurabi?",
+      "opciones": ["Egipto", "Mesopotamia", "Grecia", "India"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua construyó el Coliseo?",
+      "opciones": ["Roma", "Grecia", "Egipto", "Persia"],
+      "respuesta": "Roma"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se desarrolló la cultura olmeca?",
+      "opciones": ["Mesopotamia", "China", "Mesoamérica", "Grecia"],
+      "respuesta": "Mesoamérica"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por su sistema de castas?",
+      "opciones": ["Egipto", "Grecia", "India", "Roma"],
+      "respuesta": "India"
+    },
+    {
+      "pregunta": "¿Cuál es la civilización antigua conocida por la construcción de la Torre de Babel?",
+      "opciones": ["Egipto", "Grecia", "Mesopotamia", "Roma"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por el templo de Karnak?",
+      "opciones": ["Roma", "China", "Egipto", "India"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por sus figuras de guerreros de terracota?",
+      "opciones": ["Grecia", "Roma", "China", "Persia"],
+      "respuesta": "China"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra el Zigurat de Ur?",
+      "opciones": ["Grecia", "Mesopotamia", "Egipto", "Roma"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por la ciudad de Tenochtitlán?",
+      "opciones": ["Inca", "Azteca", "Maya", "Olmeca"],
+      "respuesta": "Azteca"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se desarrolló el papiro como material de escritura?",
+      "opciones": ["Grecia", "Roma", "Egipto", "China"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por su arquitectura con columnas dóricas, jónicas y corintias?",
+      "opciones": ["Egipto", "China", "Grecia", "Roma"],
+      "respuesta": "Grecia"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se construyó el Mausoleo de Halicarnaso?",
+      "opciones": ["Egipto", "Grecia", "Persia", "Roma"],
+      "respuesta": "Grecia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por sus templos en Angkor?",
+      "opciones": ["Mesopotamia", "Imperio Jemer", "China", "Egipto"],
+      "respuesta": "Imperio Jemer"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por sus estatuas moai?",
+      "opciones": ["Azteca", "Inca", "Isla de Pascua", "Olmeca"],
+      "respuesta": "Isla de Pascua"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se desarrolló el arte del origami?",
+      "opciones": ["China", "India", "Japón", "Corea"],
+      "respuesta": "Japón"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la ciudad de Petra?",
+      "opciones": ["Egipto", "Grecia", "Nabatea", "Roma"],
+      "respuesta": "Nabatea"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por sus geoglifos en las Líneas de Nazca?",
+      "opciones": ["Inca", "Nazca", "Maya", "Olmeca"],
+      "respuesta": "Nazca"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se desarrolló el teatro como forma de entretenimiento?",
+      "opciones": ["Roma", "Grecia", "Egipto", "Mesopotamia"],
+      "respuesta": "Grecia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por sus avances en astronomía y matemáticas en Chichen Itza?",
+      "opciones": ["Azteca", "Inca", "Maya", "Olmeca"],
+      "respuesta": "Maya"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por la construcción de zigurats?",
+      "opciones": ["Egipto", "Mesopotamia", "China", "Grecia"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra el Templo de Bel en Palmira?",
+      "opciones": ["Egipto", "Roma", "Mesopotamia", "Siria"],
+      "respuesta": "Siria"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la construcción del Palacio de Knossos?",
+      "opciones": ["Egipto", "Grecia", "Minoica", "Roma"],
+      "respuesta": "Minoica"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por la ciudad de Cartago?",
+      "opciones": ["Egipto", "Fenicia", "Cartaginense", "Grecia"],
+      "respuesta": "Cartaginense"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por sus manuscritos en los rollos del Mar Muerto?",
+      "opciones": ["Egipto", "Grecia", "Israel", "Mesopotamia"],
+      "respuesta": "Israel"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra la Gran Biblioteca de Alejandría?",
+      "opciones": ["Roma", "Egipto", "Grecia", "Mesopotamia"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la construcción de las pirámides de Meroe?",
+      "opciones": ["Egipto", "Grecia", "Nubia", "Mesopotamia"],
+      "respuesta": "Nubia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por el templo de Borobudur?",
+      "opciones": ["Mesopotamia", "China", "India", "Indonesia"],
+      "respuesta": "Indonesia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la construcción del Faro de Alejandría?",
+      "opciones": ["Egipto", "Grecia", "Roma", "Mesopotamia"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se desarrolló la escritura jeroglífica?",
+      "opciones": ["Mesopotamia", "Grecia", "Egipto", "Roma"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la construcción del Templo del Cielo?",
+      "opciones": ["India", "China", "Mesopotamia", "Egipto"],
+      "respuesta": "China"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra la ciudad de Mohenjo-Daro?",
+      "opciones": ["Mesopotamia", "China", "Valle del Indo", "Grecia"],
+      "respuesta": "Valle del Indo"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por el Palacio de Darius en Persépolis?",
+      "opciones": ["Egipto", "Persia", "Mesopotamia", "Roma"],
+      "respuesta": "Persia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la Epopeya de Gilgamesh?",
+      "opciones": ["Egipto", "Mesopotamia", "Grecia", "Roma"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra el Templo de Hera?",
+      "opciones": ["Egipto", "Grecia", "Roma", "China"],
+      "respuesta": "Grecia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por la ciudad de Uruk?",
+      "opciones": ["Grecia", "Roma", "Mesopotamia", "Egipto"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por su calendario preciso de 365 días?",
+      "opciones": ["Azteca", "Inca", "Maya", "Olmeca"],
+      "respuesta": "Maya"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por su teatro en Epidauro?",
+      "opciones": ["Egipto", "Roma", "Grecia", "Mesopotamia"],
+      "respuesta": "Grecia"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se construyó el Acueducto de Segovia?",
+      "opciones": ["Grecia", "Egipto", "Roma", "Persia"],
+      "respuesta": "Roma"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la construcción del Palacio de Assurbanipal?",
+      "opciones": ["Grecia", "Mesopotamia", "Egipto", "Roma"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por sus frescos en Cnosos?",
+      "opciones": ["Grecia", "Egipto", "Roma", "Minoica"],
+      "respuesta": "Minoica"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se desarrolló la obra 'El Arte de la Guerra'?",
+      "opciones": ["Grecia", "China", "Roma", "Persia"],
+      "respuesta": "China"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la construcción del Templo de Edfu?",
+      "opciones": ["Grecia", "Mesopotamia", "Roma", "Egipto"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra la ciudad de Pataliputra?",
+      "opciones": ["Grecia", "Roma", "India", "China"],
+      "respuesta": "India"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por sus avanzados sistemas de riego en Marib?",
+      "opciones": ["Mesopotamia", "Grecia", "Egipto", "Saba"],
+      "respuesta": "Saba"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por sus templos en Luxor?",
+      "opciones": ["Roma", "Egipto", "Grecia", "Persia"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se desarrolló la filosofía de Confucio?",
+      "opciones": ["India", "China", "Grecia", "Roma"],
+      "respuesta": "China"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la construcción del Templo de Hatshepsut?",
+      "opciones": ["Grecia", "Mesopotamia", "Egipto", "Roma"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra el Templo del Loto?",
+      "opciones": ["Grecia", "China", "India", "Mesopotamia"],
+      "respuesta": "India"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por la Batalla de Kadesh?",
+      "opciones": ["Egipto", "Roma", "Grecia", "Mesopotamia"],
+      "respuesta": "Egipto"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por la creación del Estándar de Ur?",
+      "opciones": ["Egipto", "Grecia", "Mesopotamia", "Roma"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se desarrolló la filosofía estoica?",
+      "opciones": ["Roma", "Grecia", "Egipto", "Persia"],
+      "respuesta": "Grecia"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es famosa por la construcción de la Puerta de Ishtar?",
+      "opciones": ["Mesopotamia", "Egipto", "Roma", "Persia"],
+      "respuesta": "Mesopotamia"
+    },
+    {
+      "pregunta": "¿En qué civilización antigua se encuentra la ciudad de Teotihuacán?",
+      "opciones": ["Inca", "Maya", "Azteca", "Olmeca"],
+      "respuesta": "Azteca"
+    },
+    {
+      "pregunta": "¿Qué civilización antigua es conocida por el Templo Mayor?",
+      "opciones": ["Inca", "Maya", "Azteca", "Olmeca"],
+      "respuesta": "Azteca"
+    }
+  ]
+  
